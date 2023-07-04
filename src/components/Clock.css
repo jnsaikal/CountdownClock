@@ -1,0 +1,30 @@
+.main {
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+}
+.inputs {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+
+}
+.show {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+div{
+    font-size: 20px;
+    font-weight: 500;
+}
+input{
+    margin-right:2rem ;
+    font-size: 17px;
+    border-radius: 5px;
+    margin-left: 0.5rem;
+}
+
+.show div{
+    margin-right:1rem ;
+}
